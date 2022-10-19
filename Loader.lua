@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/countervolts/pH9nArDpO2bwst/main/Settings/hook.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/countervolts/Script-Hub-V2/main/Settings/hook.lua", true))()
