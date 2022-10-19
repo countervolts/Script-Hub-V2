@@ -12,3 +12,4 @@ combat, and visuals are very pre-early finished
 
 Known Errors
 - Eps auto loads when visual ui is loaded
+- Aimbot and Reach don't work
